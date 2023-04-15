@@ -5,7 +5,7 @@
             "name": "main",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/robo-gpt/main.py",
+            "program": "${workspaceFolder}/robo-gpt/speech.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }

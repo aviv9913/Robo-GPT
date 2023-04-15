@@ -10,6 +10,11 @@ tiktoken = "*"
 python-dotenv = "*"
 googlesearch-python = "*"
 selenium = "*"
+transformers = "*"
+torch = "*"
+soundfile = "*"
+torchaudio = "*"
+sentencepiece = "*"
 
 [dev-packages]
 pylint = "*"
