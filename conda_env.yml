@@ -1,4 +1,4 @@
-name: LLMBots
+name: LLMBots2
 channels:
   - pytorch
   - nvidia
